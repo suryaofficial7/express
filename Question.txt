@@ -1,0 +1,28 @@
+1. Create an android application for the following menu items ,the appropriate  toast should appear by clicking on the item : 
+ Settings 
+ Search 
+ Compose Email 
+ FeedBack 
+(make Compose Email item disabled )
+
+2. Create an android application to pass the data from current application to another  application using intent. 
+
+3. Create an android application to display Alert Dialog on pressing the Back button.
+
+4. Create an android application which automatically notify the user when Aeroplane mode is turned on or off using broadcast receiver.
+
+5. Create an android application to demonstrate the following event listeners on the following widgets 
+Button: on click listener, long click listener 
+Image: Touch listener with these motion events =>Action up, action down and action 
+pointer down 
+Edit Text : key listener on Enter key 
+The Appropriate message should be displayed in text view.
+
+6. Create an android application using linear layout and insert 10 games in the list view and display the selected game in the text view.
+
+7. Insert the new contents in the following resources and demonstrate their uses in the android application Android Resources: (Color, Theme, String, Drawable, Dimension, Image)
+8. Create an android application, with one button and image view also set the background image in the application, the image should be changed on each click of the button (Use two images).
+9. Create an android application to demonstrate the use of sub menu the toast should be appeared by selecting the sub menu item
+10. Create an android application with customised appbar. Insert search and file  buttons in it and toast the appropriate message on clicking the buttons (add new color in color.xml and use that color for appbar). 
+
+11. Create an android application using linear layout and insert 10 animals in the list view and display the appropriate Toast
